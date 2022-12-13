@@ -1,1 +1,3 @@
 # Srijith Balakrishnan
+
+theme: minima
